@@ -20,3 +20,13 @@ h1 {
 	background-color: turquoise;
 	border-radius: 20px;
 }
+
+/*
+* id tag has the # ex #first-paragraph
+* and class has the dot .pretty-title
+*/
+
+#first-paragraph {
+	color: dimgrey;
+	background-color: turquoise;
+}
