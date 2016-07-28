@@ -1,11 +1,15 @@
 <!DOCTYPE html>
 <html lang="utf-8">
 	<head>
+		<!-- meta tag -->
+		<meta charset="utf-8">
+
 		<!-- css-->
 		<!-- this means it will read this code before it loads content. load css 1st then content 2nd-->
 		<link href="css/style.css" rel="stylesheet" type="text/css"/>
 
 		<!-- adding custom JavaScript-->
+		<script src="js/custom.js" type="text/javascript"></script>
 
 		<title>Persona Cases</title>
 	</head>
