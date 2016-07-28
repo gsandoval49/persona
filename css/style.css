@@ -41,6 +41,15 @@ h1 {
 }
 
 .second-paragraph {
+	background-color: rgb(0,169,157);
+	border: 5px solid darkgrey;
+	font-family: sans-serif;
+	font-size: 16px;
+	padding: 20px;
+	margin: 20px;
+}
+
+.third-paragraph {
 	background-color: turquoise;
 	border: 5px solid darkgrey;
 	font-family: sans-serif;
@@ -48,3 +57,4 @@ h1 {
 	padding: 20px;
 	margin: 20px;
 }
+

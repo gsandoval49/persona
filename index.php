@@ -31,8 +31,15 @@
 			<p class="second-paragraph">test</p>
 
 			<!-- Interaction Flow -->
-			<h2>Interaction Flow</h2>
-			<ul>
+			<h2 class="third-paragraph">Interaction Flow</h2>
+			<ul style="
+    background-color: turquoise;
+    border: 5px solid darkgrey;
+    font-family: sans-serif;
+    font-size: 16px;
+    padding: 20px;
+    margin: 20px;
+">
 				<li>“I want to enter a verse in the search field.”</li>
 				<li>“I want to see the verse in the results field and read it.”</li>
 				<li>“I would like the option to read multiple versions of the English bible, for reference.”</li>
