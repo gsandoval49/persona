@@ -14,6 +14,7 @@ h1 {
 * the one farthest down will override the other.
 * say if i put 2 back ground colors. how css solves to opposing colors. it will apply the last one.
 * pretty title will be stronger than h1 colors.
+* i decided to take away the pretty title
 */
 .pretty-title {
 	color: steelblue;
@@ -26,7 +27,24 @@ h1 {
 * and class has the dot .pretty-title
 */
 
+/*
+* if you need to get
+*/
+
 #first-paragraph {
-	color: dimgrey;
 	background-color: turquoise;
+	border: 5px solid darkgrey;
+	font-family: sans-serif;
+	font-size: 16px;
+	padding: 20px;
+	margin: 20px;
+}
+
+.second-paragraph {
+	background-color: turquoise;
+	border: 5px solid darkgrey;
+	font-family: sans-serif;
+	font-size: 16px;
+	padding: 20px;
+	margin: 20px;
 }

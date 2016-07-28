@@ -21,14 +21,14 @@
 			<!-- Persona section -->
 			<h2>Persona | John Smith | 25 years old</h2>
 			<p id="first-paragraph">Profession: Professional Artist. Paintings mainly acrylic and water based</p>
-			<p class="pretty-title red-text">Technology: Macbook Pro, iPhone 6, and iPad uses to draw her skeletons of paintings. </p>
-			<p class="pretty-title red-text">Attitudes and behavior: Enjoys her time in the mornings to draw her paintings. She feels it calms her. She enjoys using her phone or iPad to give her ideas for her painting in the mornings. </p>
-			<p class="pretty-title red-text">Frustrations and needs: She dislikes having to wait for her pages to load. She'll stay on something for 5 seconds and if a page doesn't load she'll be done with it. She needs a platform where she can showcase her most recent work. She enjoys doing events and hanging her work at the local coffee shop down the street. But if she can, she'll avoid having to drive. </p>
-			<p class="pretty-title red-text">Goals: She wants to make more money, have more exposure for her paintings. </p>
+			<p id="first-paragraph">Technology: Macbook Pro, iPhone 6, and iPad uses to draw her skeletons of paintings. </p>
+			<p id="first-paragraph">Attitudes and behavior: Enjoys her time in the mornings to draw her paintings. She feels it calms her. She enjoys using her phone or iPad to give her ideas for her painting in the mornings. </p>
+			<p id="first-paragraph">Frustrations and needs: She dislikes having to wait for her pages to load. She'll stay on something for 5 seconds and if a page doesn't load she'll be done with it. She needs a platform where she can showcase her most recent work. She enjoys doing events and hanging her work at the local coffee shop down the street. But if she can, she'll avoid having to drive anywhere. So that's why a website to display her work would be ideal.  </p>
+			<p id="first-paragraph">Goals: She wants to make more money, have more exposure for her paintings. </p>
 
 			<!-- Use case section -->
 			<h2>Use Case</h2>
-			<p>His lead pastor gave him a task to speak on finances for the weekly message coming up. The lead pastor feels that it’s a subject that should be addressed to the youth ministry. He wants him to create a message tailored around the original Greek/Hebrew definitions of 2 specific verses. Over 50% of Jesus ministry were financial principles. The pastor gave him 2 verses to dive into and create a message surrounding those 2 verses. He’s welcome to refer to other verses with that SAME word used in the Greek/Hebrew, to help support the 2 main verses. He will use the lexicon/dictionary to define specific words in the verse. He will use those definitions to paint a picture of how that specific word was used in that context, in that time period, in that culture, and how that word applies to our youth today.</p>
+			<p class="second-paragraph">test</p>
 
 			<!-- Interaction Flow -->
 			<h2>Interaction Flow</h2>
