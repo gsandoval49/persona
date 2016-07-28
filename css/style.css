@@ -4,5 +4,19 @@
 
 h1 {
 	color: grey;
-	font-size: 20px;
+	font-size: 30px;
+	background-color: lightgrey;
+}
+
+
+/*
+* this has been over ridden in the order of the rules. so if we had2 h1 selectors
+* the one farthest down will override the other.
+* say if i put 2 back ground colors. how css solves to opposing colors. it will apply the last one.
+* pretty title will be stronger than h1 colors.
+*/
+.pretty-title {
+	color: steelblue;
+	background-color: turquoise;
+	border-radius: 20px;
 }
