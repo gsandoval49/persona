@@ -35,6 +35,7 @@
 			<ul style="
     background-color: turquoise;
     border: 5px solid darkgrey;
+    border-radius: 10px 10px 10px 10px;
     font-family: sans-serif;
     font-size: 16px;
     padding: 20px;
@@ -44,6 +45,38 @@
 				<li>“I want a place I can leave links to my fb, linkedin, website, and business”</li>
 				<li>“I would like to be able to be contacted by my preferred method of contact. ”</li>
 				<li>“I would like to be able to reach out to small businesses or people interested in displaying my artwork”</li>
+
+			</ul>
+
+			<h1>Persona Case #2</h1>
+
+			<!-- Persona section -->
+			<h2>Persona | Rob Thomas | 40 years old</h2>
+			<p id="third-paragraph">Profession: Small business owner. Runs a company that will be buying additional space for expanding his business. He will have multiple walls and may need some artwork</p>
+			<p id="third-paragraph">Technology:  </p>
+			<p id="third-paragraph">Attitudes and behavior:  </p>
+			<p id="third-paragraph">Frustrations and needs:  </p>
+			<p id="third-paragraph">Goals:  </p>
+
+			<!-- Use case section -->
+			<h2>Use Case</h2>
+			<p class="fourth-paragraph">content here</p>
+
+			<!-- Interaction Flow -->
+			<h2>Interaction Flow</h2>
+			<ul style="
+    background-color: lightgreen;
+    border: 5px solid darkgrey;
+    border-radius: 10px 10px 10px 10px;
+    font-family: sans-serif;
+    font-size: 16px;
+    padding: 20px;
+    margin: 20px;
+">
+				<li>“I want to ”</li>
+				<li>“I want a ”</li>
+				<li>“I would like ”</li>
+				<li>“I would like ”</li>
 
 			</ul>
 
