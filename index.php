@@ -22,7 +22,7 @@
 			<h2>Persona | John Smith | 25 years old</h2>
 			<p>Profession: Professional Artist. Paintings mainly acrylic and water based</p>
 			<p>Technology: Macbook Pro, iPhone 6, and iPad uses to draw her skeletons of paintings. </p>
-			<p>Attitudes and behavior: </p>
+			<p>Attitudes and behavior: Enjoys her time in the mornings to draw her paintings. She feels it calms her. She enjoys using her phone or iPad to </p>
 			<p>Frustrations and needs: He is human. He has a point where he knows if he’s losing it, He has to unplug from the world and pray and read the word, and talk with God. He is in ministry, so he gets paid a minimum salary. He has a goal to write a book to hopefully supplement money for the church and his future as a youth minister and future pastor in the church. He uses his head pastor as a mentor to help him through certain situations and his pastor uses a concordance/lexicon for his bible studies. With all these responsibilities and his natural spirit to want to help others, it’s easy to feel he’s pulled in different directions. He needs his quiet time with God in the early mornings, in the evenings, and the occasional emergency times during the day.</p>
 			<p>Goals: His main goal is that when he speaks the youth understands where he’s coming from when explaining subjects, concepts, and definitions about the bible. His goal is to keep the message as simple as possible. He wants the youth ministry to apply it to their lives in a practical manner through painting a picture. He would like to keep his life as simple as he could so that when a student/friend/or Christ follower asks what he does or how he does it…He has specifics to give them. But they can tailor to what he does.</p>
 
